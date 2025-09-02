@@ -1,7 +1,4 @@
-from flask import Flask
+﻿dir
+type app.py
+type requirements.txt
 
-app = Flask(__name__)
-
-@app.route("/")
-def home():
-    return "สวัสดีครับพี่เอ็มต่ะ! เว็บนี้รันบน Render 🚀"
